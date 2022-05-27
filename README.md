@@ -1,5 +1,7 @@
 # vuex-practice
 
+Vue practice app made by following a tutorial(https://www.youtube.com/watch?v=5lVQgZzLMHc)
+
 ## Project setup
 ```
 npm install
